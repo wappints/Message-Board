@@ -1,10 +1,11 @@
 # Message-Board-MP
+First Term Project | Junior Year
 
 CSNETWK Group 4
 
 Authors: Yeohan Norona, Juliana Agulto
 
-First Term Project | Junior Year
+
 
 
 ## Instructions in running a server-client sample chat in a terminal window
